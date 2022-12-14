@@ -1,4 +1,4 @@
-# Skin caner classification using CNN
+# Skin cancer classification using CNN
 
 This is a peronal project that aims to classify skin cancer images using deep learning. 
 The dataset from Kaggle.com can be found [here](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000).
