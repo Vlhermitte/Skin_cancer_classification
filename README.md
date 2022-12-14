@@ -16,6 +16,6 @@ The dataset can be found [here](https://www.kaggle.com/kmader/skin-cancer-mnist-
 ## Usage
 
 - Clone the repository
-- Download the dataset from [here](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000) and place it in the data folder
+- Download the dataset from [here](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)
 - Run the notebook
 - The model will be saved in the models folder
